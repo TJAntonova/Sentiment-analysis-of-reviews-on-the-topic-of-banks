@@ -1,4 +1,4 @@
-# Sentiment-analysis-of-reviews-on-the-topic-of-banks
+# Sentiment analysis of reviews on the topic of banks
 __Анализ эмоциональной окраски отзывов на тему банков__
 
 ***Актуальность исследования***
